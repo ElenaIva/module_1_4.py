@@ -1,6 +1,6 @@
 
 my_string=("Добро пожаловать в университет Urban!")
-print(my_string)
+name=input(my_string)
 print(len(my_string))
 print(my_string .upper())
 print(my_string .lower())
